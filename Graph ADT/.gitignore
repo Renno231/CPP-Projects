@@ -6,5 +6,4 @@
 !*.cpp
 !*.h
 !.gitignore
-!*.pdf
-!*.zip
+!README.md
