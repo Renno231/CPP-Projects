@@ -1,2 +1,3 @@
-# Graph ADT
-A reposity that houses the Graph ADT final project. It took many many many hours and attempts, but it has shortest path calculation.
+# Welcome to the Graph ADT repository!
+
+This repository is dedicated to the Graph ADT project, which was created as part of a Data Structures class. With many hours of hard work and determination, the project was successfully completed and includes a feature for calculating the shortest path. To verify the functionality of the class, a comprehensive set of tests have been included.
